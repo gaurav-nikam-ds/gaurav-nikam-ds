@@ -10,7 +10,7 @@
 
 <!-- SOCIAL BADGES -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-gauravnikam.vercel.app-0C1220?style=for-the-badge&logo=vercel&logoColor=F59E0B)](https://gauravnikam.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-nikam-44842a345)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-nikam-da)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gnikam9211)
 [![Gmail](https://img.shields.io/badge/Gmail-gauravnikam072-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravnikam072@gmail.com)
 
@@ -80,7 +80,7 @@ print("✅ Ready to ship value")   # ← cursor blinking here
 > **Legal AI · NLP · LLM · Streamlit**
 
 [![Live App](https://img.shields.io/badge/▶%20Live%20App-lexai--india.onrender.com-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white)](https://lexai-india.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Source-0C1220?style=for-the-badge&logo=github)](https://github.com/gauravnikam777-vision/LexAI)
+[![GitHub](https://img.shields.io/badge/GitHub-Source-0C1220?style=for-the-badge&logo=github)](https://github.com/gaurav-nikam-ds/LexAI)
 
 **IPC · BNS · CrPC · BNSS** — All major Indian law codes with 2023 updates.
 
@@ -96,7 +96,7 @@ Legal help in India is expensive and inaccessible. LexAI gives any citizen **ins
 > **Telecom · Classification · FastAPI · Streamlit**
 
 [![Live App](https://img.shields.io/badge/▶%20Live%20App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://customer-churn-prediction-7dmchid9v9vkkyigyn3ivc.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Source-0C1220?style=for-the-badge&logo=github)](https://github.com/gauravnikam777-vision/customer-churn-prediction)
+[![GitHub](https://img.shields.io/badge/GitHub-Source-0C1220?style=for-the-badge&logo=github)](https://github.com/gaurav-nikam-ds/customer-churn-prediction)
 
 | Metric | Value |
 |--------|-------|
@@ -115,7 +115,7 @@ Legal help in India is expensive and inaccessible. LexAI gives any citizen **ins
 > **Healthcare · XGBoost · sklearn Pipeline**
 
 [![Live App](https://img.shields.io/badge/▶%20Live%20App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://diabetes-prediction-app-pro.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Source-0C1220?style=for-the-badge&logo=github)](https://github.com/gauravnikam777-vision/diabetes-prediction-app)
+[![GitHub](https://img.shields.io/badge/GitHub-Source-0C1220?style=for-the-badge&logo=github)](https://github.com/gaurav-nikam-ds/diabetes-prediction-app)
 
 **100K patient records** · Real-time High / Moderate / Low risk scoring in production.
 
@@ -130,7 +130,7 @@ XGBoost classifier with end-to-end ML pipeline: preprocessing → feature scalin
 ### 📊 SuperStore Sales Dashboard
 > **Retail BI · Power BI · DAX · Forecasting**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Report%20+%20Dashboard-0C1220?style=for-the-badge&logo=github)](https://github.com/gauravnikam777-vision/SuperStore-PowerBI-Sales-Forecast)
+[![GitHub](https://img.shields.io/badge/GitHub-Report%20+%20Dashboard-0C1220?style=for-the-badge&logo=github)](https://github.com/gaurav-nikam-ds/SuperStore-PowerBI-Sales-Forecast)
 
 Multi-region Power BI dashboard with DAX measures, drill-down views, and 20-day ETS forecast (95% CI).
 
@@ -143,7 +143,7 @@ Multi-region Power BI dashboard with DAX measures, drill-down views, and 20-day 
 ### 📈 Trader Behavior Insights
 > **Finance · Behavioral Analytics · Python**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Report%20+%20Analysis-0C1220?style=for-the-badge&logo=github)](https://github.com/gauravnikam777-vision/Trader-Behavior-Insights)
+[![GitHub](https://img.shields.io/badge/GitHub-Report%20+%20Analysis-0C1220?style=for-the-badge&logo=github)](https://github.com/gaurav-nikam-ds/Trader-Behavior-Insights)
 
 Analyzed Bitcoin trader behavior across Fear and Greed market conditions.
 
@@ -156,7 +156,7 @@ Analyzed Bitcoin trader behavior across Fear and Greed market conditions.
 ### 🗄️ SQL Practice Repository
 > **SQL · MySQL · Analytics Engineering**
 
-[![GitHub](https://img.shields.io/badge/GitHub-SQL%20Repo-0C1220?style=for-the-badge&logo=github)](https://github.com/gauravnikam777-vision/sql-practice)
+[![GitHub](https://img.shields.io/badge/GitHub-SQL%20Repo-0C1220?style=for-the-badge&logo=github)](https://github.com/gaurav-nikam-ds/sql-practice)
 
 Production-level SQL patterns — window functions, CTEs, complex joins, subqueries, aggregations, and query optimization. Written to mirror real analyst interview and on-the-job scenarios.
 
@@ -203,16 +203,16 @@ Production-level SQL patterns — window functions, CTEs, complex joins, subquer
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gauravnikam777-vision&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=F59E0B&icon_color=F59E0B&text_color=C9D1D9&bg_color=0C1220" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravnikam777-vision&layout=compact&theme=tokyonight&hide_border=true&title_color=F59E0B&text_color=C9D1D9&bg_color=0C1220" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=gaurav-nikam-ds &show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=F59E0B&icon_color=F59E0B&text_color=C9D1D9&bg_color=0C1220" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-nikam-ds &layout=compact&theme=tokyonight&hide_border=true&title_color=F59E0B&text_color=C9D1D9&bg_color=0C1220" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=gauravnikam777-vision&theme=tokyonight&hide_border=true&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&background=0C1220&dates=6B7280&sideLabels=C9D1D9&sideNums=F59E0B" />
+<img width="70%" src="https://streak-stats.demolab.com?user=gaurav-nikam-ds &theme=tokyonight&hide_border=true&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&background=0C1220&dates=6B7280&sideLabels=C9D1D9&sideNums=F59E0B" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gauravnikam777-vision&bg_color=0C1220&color=F59E0B&line=F59E0B&point=ffffff&area=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-nikam-ds &bg_color=0C1220&color=F59E0B&line=F59E0B&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -264,13 +264,13 @@ Production-level SQL patterns — window functions, CTEs, complex joins, subquer
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-gauravnikam.vercel.app-0C1220?style=for-the-badge)](https://gauravnikam.vercel.app)
 [![Email](https://img.shields.io/badge/✉%20Email-gauravnikam072@gmail.com-F59E0B?style=for-the-badge)](mailto:gauravnikam072@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gaurav-nikam-44842a345)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0C1220?style=for-the-badge&logo=github)](https://github.com/gauravnikam777-vision)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gaurav-nikam-ds)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0C1220?style=for-the-badge&logo=github)](https://github.com/gaurav-nikam-ds)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/gnikam9211)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gauravnikam777-vision&color=F59E0B&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=gaurav-nikam-ds&color=F59E0B&style=flat-square&label=Profile+Views)
 
 <br/>
 

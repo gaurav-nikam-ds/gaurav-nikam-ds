@@ -1,19 +1,25 @@
 {
-  "_readme": "This file lives in your gaurav-nikam-ds/gaurav-nikam-ds GitHub repo. Edit it on GitHub — portfolio updates automatically. Profile/avatar/bio come from GitHub directly.",
+  "_readme": "Single source of truth for README.md. Edit this file — update_readme.py regenerates everything between the <!-- ...:START --> / <!-- ...:END --> markers. Project description/tags/live-link are pulled live from GitHub (repo description, topics, homepage); project_overrides only adds emoji, a key insight, and display order on top of that.",
 
   "profile": {
-    "title":    "Aspiring Data Analyst",
-    "subtitle": "I turn raw e-commerce data into decisions that actually move business metrics. From SQL queries to Power BI dashboards — I build the full picture.",
-    "bio":      "I'm Gaurav Govind Nikam — a data analyst fresher from Pune, Maharashtra with a BBA-CA background, currently pursuing MCA at Sinhgad Institute of Management, Pune. My focus is e-commerce analytics — understanding customer behavior, sales patterns, and operational data.",
+    "name": "Gaurav Nikam",
+    "roles": ["Data Analyst", "ML Engineer", "BI Developer"],
+    "tagline": "Turning raw data into real decisions",
+    "bio": "Data analyst fresher from Pune, Maharashtra with a BBA-CA background, currently pursuing MCA at Sinhgad Institute of Management. Focused on e-commerce & business analytics — customer behavior, sales patterns, and operational data.",
+    "location": "Pune, Maharashtra, India",
     "open_to_work": true,
-    "email":    "gauravnikam072@gmail.com",
+    "email": "gauravnikam072@gmail.com",
     "social": {
+      "portfolio": "https://gauravnikam.vercel.app",
       "linkedin": "https://www.linkedin.com/in/gaurav-nikam-ds",
-      "kaggle":   "https://www.kaggle.com/gnikam9211"
+      "kaggle": "https://www.kaggle.com/gnikam9211",
+      "github": "https://github.com/gaurav-nikam-ds"
     },
-    "stats": {
-      "years":    "1+",
-      "domain":   "E-commerce"
+    "quick_stats": {
+      "live_apps": "3+",
+      "projects": "6",
+      "records_analyzed": "100K+",
+      "certifications": "14"
     }
   },
 
@@ -31,70 +37,69 @@
 
   "education": [
     {
-      "degree":      "MCA — Master of Computer Applications",
-      "institution": "Sinhgad Institute of Management, Pune",
-      "university":  "SPPU",
-      "year_start":  "2024",
-      "year_end":    "Present",
-      "status":      "Pursuing",
-      "location":    "Pune, Maharashtra",
-      "description": "Specializing in data systems, analytics, and software engineering."
+      "degree": "MCA — Master of Computer Applications",
+      "institution": "Sinhgad Institute of Management, Pune (SPPU)",
+      "year": "2024 – 2026",
+      "status": "Pursuing"
     },
     {
-      "degree":      "BBA-CA — Bachelor of Business Administration (Computer Applications)",
-      "institution": "Sinhgad College, Pune",
-      "university":  "SPPU",
-      "year_start":  "2021",
-      "year_end":    "2024",
-      "status":      "Completed",
-      "location":    "Pune, Maharashtra",
-      "description": "Foundation in business analytics, database management, and computing."
+      "degree": "BBA-CA — Bachelor of Business Administration (Computer Applications)",
+      "institution": "Sinhgad College, Pune (SPPU)",
+      "year": "2021 – 2024",
+      "status": "Completed"
     }
   ],
 
   "certifications": [
-    { "name": "Artificial Intelligence: Concepts & Techniques", "issuer": "NPTEL",                     "date": "Oct 2025", "credential_id": "NPTEL25CS159S1" },
-    { "name": "Machine Learning with Python",                   "issuer": "Anaconda",                   "date": "Nov 2025", "credential_id": "" },
-    { "name": "Machine Learning Statistical Foundations",       "issuer": "Wolfram Research",            "date": "Nov 2025", "credential_id": "" },
-    { "name": "Microsoft Azure AI Essentials",                  "issuer": "Microsoft",                  "date": "Nov 2025", "credential_id": "" },
-    { "name": "Azure Data Engineer Associate (DP-203) Prep",    "issuer": "LinkedIn / Microsoft Press",  "date": "Nov 2025", "credential_id": "" },
-    { "name": "Introduction to Large Language Models",          "issuer": "Google",                     "date": "Jul 2025", "credential_id": "16967960" },
-    { "name": "Introduction to Generative AI",                  "issuer": "Google",                     "date": "Jul 2025", "credential_id": "16967919" },
-    { "name": "British Airways Data Science Simulation",        "issuer": "Forage",                     "date": "Jun 2025", "credential_id": "ayhErmMB4ZoGw5" },
-    { "name": "Deloitte Australia Data Analytics Simulation",   "issuer": "Forage",                     "date": "Jun 2025", "credential_id": "o6DpBJWwJJ9Ck2" },
-    { "name": "Python 101 for Data Science",                    "issuer": "IBM",                        "date": "Jun 2025", "credential_id": "0706eed2569843" },
-    { "name": "Data Science Tools",                             "issuer": "IBM",                        "date": "Jun 2025", "credential_id": "0f383339f55843" },
-    { "name": "Data Science 101",                               "issuer": "IBM",                        "date": "Jun 2025", "credential_id": "56b724315fae4d" },
-    { "name": "Python Programming and SQL",                     "issuer": "ExcelR",                     "date": "Oct 2022", "credential_id": "" },
-    { "name": "Advanced Excel, PowerPoint & Word",              "issuer": "ExcelR",                     "date": "Nov 2022", "credential_id": "" }
+    { "name": "Artificial Intelligence: Concepts & Techniques", "issuer": "NPTEL",                    "date": "2025" },
+    { "name": "Machine Learning with Python",                   "issuer": "Anaconda",                 "date": "2025" },
+    { "name": "Machine Learning Statistical Foundations",       "issuer": "Wolfram Research",         "date": "2025" },
+    { "name": "Microsoft Azure AI Essentials",                  "issuer": "Microsoft",                "date": "2025" },
+    { "name": "Azure Data Engineer Associate (DP-203) Prep",    "issuer": "LinkedIn / Microsoft Press","date": "2025" },
+    { "name": "Introduction to Large Language Models",          "issuer": "Google",                   "date": "2025" },
+    { "name": "Introduction to Generative AI",                  "issuer": "Google",                   "date": "2025" },
+    { "name": "British Airways Data Science Simulation",        "issuer": "Forage",                   "date": "2025" },
+    { "name": "Deloitte Australia Data Analytics Simulation",   "issuer": "Forage",                   "date": "2025" },
+    { "name": "Python 101 for Data Science",                    "issuer": "IBM",                      "date": "2025" },
+    { "name": "Data Science Tools",                             "issuer": "IBM",                      "date": "2025" },
+    { "name": "Data Science 101",                                "issuer": "IBM",                      "date": "2025" },
+    { "name": "Python Programming and SQL",                     "issuer": "ExcelR",                   "date": "2022" },
+    { "name": "Advanced Excel, PowerPoint & Word",               "issuer": "ExcelR",                   "date": "2022" }
   ],
 
   "project_overrides": {
-    "_readme": "Use this ONLY to add key_insight, override title, or set order. Description/tags/live_url all come from GitHub repo directly.",
-
+    "LexAI": {
+      "emoji": "⚖️",
+      "key_insight": "Free, plain-language legal guidance on IPC/BNS/CrPC/BNSS for any Indian citizen",
+      "live_url": "https://lexai-india.onrender.com/",
+      "order": 1
+    },
     "customer-churn-prediction": {
-      "emoji":       "📉",
-      "key_insight": "Month-to-month customers churn 3× faster than annual holders",
-      "order":       3
+      "emoji": "📉",
+      "key_insight": "Month-to-month customers churn 3x faster than annual holders",
+      "order": 2
     },
     "diabetes-prediction-app": {
-      "emoji":       "🩺",
-      "key_insight": "Blood glucose alone beats BMI + Age as diabetes predictor",
-      "order":       2
+      "emoji": "🩺",
+      "key_insight": "HbA1c alone predicts diabetes better than BMI + age combined",
+      "order": 3
     },
     "SuperStore-PowerBI-Sales-Forecast": {
-      "emoji":       "⚡",
-      "key_insight": "Tables sub-category was secretly losing money",
-      "order":       1
+      "emoji": "📊",
+      "key_insight": "Tables sub-category looked profitable but was secretly losing money",
+      "order": 4
     },
     "Trader-Behavior-Insights": {
-      "emoji":       "📊",
-      "key_insight": "Discipline, not market conditions, separates profitable traders",
-      "order":       4
+      "emoji": "📈",
+      "key_insight": "Discipline — not market sentiment — separates profitable traders",
+      "order": 5
+    },
+    "sql-practice": {
+      "emoji": "🗄️",
+      "key_insight": "Interview-grade SQL: window functions, CTEs, and query optimization",
+      "order": 6
     }
   },
 
-  "hidden_repos": [
-    "cip-project"
-  ]
+  "hidden_repos": ["cip-project", "gaurav-nikam-ds"]
 }

@@ -11,7 +11,7 @@ import re
 import requests
 from datetime import datetime, timezone
 
-USERNAME = os.environ.get("GITHUB_USERNAME", "gauravnikam777-vision")
+USERNAME = os.environ.get("GITHUB_USERNAME", "gaurav-nikam-ds")
 TOKEN    = os.environ.get("GITHUB_TOKEN", "")
 
 HEADERS = {

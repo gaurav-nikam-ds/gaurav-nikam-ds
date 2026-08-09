@@ -37,7 +37,7 @@ jobs:
       - name: Run README updater
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: gauravnikam777-vision
+          GITHUB_USERNAME: gaurav-nikam-ds
         run: python update_readme.py
 
       - name: Commit and push if changed

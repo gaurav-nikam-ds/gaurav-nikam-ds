@@ -1,19 +1,15 @@
 name: Update Profile README
 
 on:
-  # Run every day at 6 AM IST (12:30 AM UTC)
   schedule:
-    - cron: '30 0 * * *'
-
-  # Run whenever you push to this repo
+    - cron: '30 0 * * *'   # 6:00 AM IST daily
   push:
     branches: [main]
-
-  # Run whenever ANY of your repos gets a push
+    paths:
+      - 'portfolio.json'
+      - 'update_readme.py'
   repository_dispatch:
     types: [repo-updated]
-
-  # Allow manual trigger from GitHub Actions tab
   workflow_dispatch:
 
 jobs:

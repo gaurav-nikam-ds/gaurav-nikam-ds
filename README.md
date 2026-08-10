@@ -81,13 +81,14 @@ No description yet.
 
 ### 📉 Customer Churn Prediction
 
-No description yet.
+End-to-end ML system predicting telecom customer churn | Streamlit dashboard | Live deployed
 
+[![Live App](https://img.shields.io/badge/▶%20LIVE%20DEMO-Customer%20Churn%20Prediction-6366F1?style=for-the-badge&logo=streamlit&logoColor=white)](https://customer-churn-prediction-7dmchid9v9vkkyigyn3ivc.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github)](https://github.com/gaurav-nikam-ds/customer-churn-prediction)
 
 > 💡 **Key insight:** Month-to-month customers churn 3x faster than annual holders
 
-`data-analysis`
+`churn-prediction` `data-science` `logistic-regression` `machine-learning` `python`
 
 </td></tr>
 </table>
@@ -97,13 +98,14 @@ No description yet.
 
 ### 🩺 Diabetes Prediction App
 
-No description yet.
+Live Streamlit app predicting diabetes risk using XGBoost — deployed on Streamlit Cloud
 
+[![Live App](https://img.shields.io/badge/▶%20LIVE%20DEMO-Diabetes%20Prediction%20App-6366F1?style=for-the-badge&logo=streamlit&logoColor=white)](https://diabetes-prediction-app-pro.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github)](https://github.com/gaurav-nikam-ds/diabetes-prediction-app)
 
 > 💡 **Key insight:** HbA1c alone predicts diabetes better than BMI + age combined
 
-`data-analysis`
+`data-science` `deployed` `diabetes-prediction` `healthcare` `machine-learning`
 
 </td></tr>
 </table>
@@ -113,13 +115,13 @@ No description yet.
 
 ### 📊 Superstore Powerbi Sales Forecast
 
-No description yet.
+Power BI dashboard + Python EDA revealing profit leaks and regional performance | 20-day sales forecasting
 
 [![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github)](https://github.com/gaurav-nikam-ds/SuperStore-PowerBI-Sales-Forecast)
 
 > 💡 **Key insight:** Tables sub-category looked profitable but was secretly losing money
 
-`data-analysis`
+`business-intelligence` `dashboard` `data-analysis` `dax` `power-bi`
 
 </td></tr>
 </table>
@@ -129,13 +131,13 @@ No description yet.
 
 ### 📈 Trader Behavior Insights
 
-No description yet.
+Behavioral analysis of crypto traders under Fear vs Greed market conditions using real Hyperliquid data
 
 [![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github)](https://github.com/gaurav-nikam-ds/Trader-Behavior-Insights)
 
 > 💡 **Key insight:** Discipline — not market sentiment — separates profitable traders
 
-`data-analysis`
+`behavior-analysis` `bitcoin` `data-analysis` `fear-and-greed` `market-sentiment`
 
 </td></tr>
 </table>
